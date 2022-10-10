@@ -32,9 +32,9 @@ This means that local variables can be accessed only inside the function in whic
 
 ## Modules
 A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables. A module can also include runnable code. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized.
-<li>Math Module<li>
-<li>Random Module<li>
-<li>Date Module<li>
-<li>Numpy Module<li>
-<li>sys Module<li>
-<li>io Module<li>
+<li>Math Module</li>
+<li>Random Module</li>
+<li>Date Module</li>
+<li>Numpy Module</li>
+<li>sys Module</li>
+<li>io Module</li>
