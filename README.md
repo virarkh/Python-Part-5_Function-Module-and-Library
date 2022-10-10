@@ -7,6 +7,7 @@
 def function_name(parameters):
 > """docstring"""
 >> statement(s)
+
 Above shown is a function definition that consists of the following components.
 - Keyword def that marks the start of the function header.
 - A function name to uniquely identify the function.
