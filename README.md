@@ -1,4 +1,4 @@
-### :white_check_mark:Function, Modules and Library
+### :heavy_check_mark:Function, Modules and Library
 
 ## Topic Outline
 :one: [Function](#function) <br>
