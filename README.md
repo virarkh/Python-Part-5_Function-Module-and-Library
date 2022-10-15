@@ -52,5 +52,15 @@ A Python module is a file containing Python definitions and statements. A module
     - Series :arrow_right: A Pandas Series is like a column in a table. It is a one-dimensional array holding data of any type.
     - DataFrame :arrow_right: A Pandas DataFrame is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns.
 2. Matplotlib
+    - Matplotlib is a cross-platform, data visualization and graphical plotting library for Python and its numerical extension NumPy. As such, it offers a viable open       source alternative to MATLAB. Developers can also use matplotlib’s APIs (Application Programming Interfaces) to embed plots in GUI applications.
+    - Understanding matplotlib’s pyplot API is key to understanding how to work with plots:
+      - matplotlib.pyplot.figure: Figure is the top-level container. It includes everything visualized in a plot including one or more Axes.
+      - matplotlib.pyplot.axes: Axes contain most of the elements in a plot: Axis, Tick, Line2D, Text, etc., and sets the coordinates. It is the area in which data is         plotted. Axes include the X-Axis, Y-Axis, and possibly a Z-Axis, as well.
 3. Seaborn<br>
-:arrow_backward: [Back](#outline)
+    - Seaborn is an open-source Python library built on top of matplotlib. It is used for data visualization and exploratory data analysis. Seaborn works easily with       dataframes and the Pandas library. The graphs created can also be customized easily.
+    - Seaborn offers the following functionalities:
+      - Dataset oriented API to determine the relationship between variables.
+      - Automatic estimation and plotting of linear regression plots.
+      - It supports high-level abstractions for multi-plot grids.
+      - Visualizing univariate and bivariate distribution.
+      :arrow_backward: [Back](#outline)
