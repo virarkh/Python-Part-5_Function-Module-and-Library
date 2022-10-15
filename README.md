@@ -1,6 +1,6 @@
 ### :heavy_check_mark:Function, Modules and Library
 
-## Topic Outline
+## Outline
 :one: [Function](#function) <br>
 :two: [Modules](#modules) <br>
 :three: [Library](#library)
@@ -34,8 +34,8 @@ This statement can contain an expression that gets evaluated and the value is re
 - Passing by reference means the called functions' parameter will be the same as the callers' passed argument (not the value, but the identity - the variable itself).
 - Pass by value means the called functions' parameter will be a copy of the callers' passed argument.
 ### Local vs Global Variables
-This means that local variables can be accessed only inside the function in which they are declared, whereas global variables can be accessed throughout the program body by all functions. When you call a function, the variables declared inside it are brought into scope.
-
+This means that local variables can be accessed only inside the function in which they are declared, whereas global variables can be accessed throughout the program body by all functions. When you call a function, the variables declared inside it are brought into scope. <br>
+:arrow_backward: [Back](#outline)
 
 ## Modules
 A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables. A module can also include runnable code. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized.
@@ -44,12 +44,13 @@ A Python module is a file containing Python definitions and statements. A module
 3. Date Module
 4. Numpy Module
 5. sys Module
-6. io Module
-
+6. io Module<br>
+:arrow_backward: [Back](#outline)
 
 ## Library
 1. Pandas
     - Series :arrow_right: A Pandas Series is like a column in a table. It is a one-dimensional array holding data of any type.
     - DataFrame :arrow_right: A Pandas DataFrame is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns.
 2. Matplotlib
-3. Seaborn
+3. Seaborn<br>
+:arrow_backward: [Back](#outline)
